@@ -6,33 +6,10 @@
     <description>Recent content in Categories on THU Macht Frei</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://rimoaccelerator.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>docs</title>
-      <link>https://rimoaccelerator.github.io/categories/docs/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0800</pubDate>
-      
-      <guid>https://rimoaccelerator.github.io/categories/docs/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0800</lastBuildDate>
     
-    <item>
-      <title>index</title>
-      <link>https://rimoaccelerator.github.io/categories/index/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0800</pubDate>
-      
-      <guid>https://rimoaccelerator.github.io/categories/index/</guid>
-      <description></description>
-    </item>
+        <atom:link href="https://rimoaccelerator.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>shortcodes</title>
-      <link>https://rimoaccelerator.github.io/categories/shortcodes/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0800</pubDate>
-      
-      <guid>https://rimoaccelerator.github.io/categories/shortcodes/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

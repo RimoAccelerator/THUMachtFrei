@@ -5,6 +5,10 @@
     <link>https://rimoaccelerator.github.io/tags/</link>
     <description>Recent content in Tags on THU Macht Frei</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://rimoaccelerator.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    
+        <atom:link href="https://rimoaccelerator.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
