@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://rimoaccelerator.github.io/post/20250701/</loc>
+    <lastmod>2025-07-01T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://rimoaccelerator.github.io/post/20220723/</loc>
     <lastmod>2022-07-23T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -206,42 +213,42 @@
   
   <url>
     <loc>https://rimoaccelerator.github.io/categories/</loc>
-    <lastmod>2022-07-23T00:00:00+08:00</lastmod>
+    <lastmod>2025-07-01T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://rimoaccelerator.github.io/categories/docs/</loc>
-    <lastmod>2022-07-23T00:00:00+08:00</lastmod>
+    <lastmod>2025-07-01T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://rimoaccelerator.github.io/categories/index/</loc>
-    <lastmod>2022-07-23T00:00:00+08:00</lastmod>
+    <lastmod>2025-07-01T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://rimoaccelerator.github.io/post/</loc>
-    <lastmod>2022-07-23T00:00:00+08:00</lastmod>
+    <lastmod>2025-07-01T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://rimoaccelerator.github.io/categories/shortcodes/</loc>
-    <lastmod>2022-07-23T00:00:00+08:00</lastmod>
+    <lastmod>2025-07-01T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://rimoaccelerator.github.io/</loc>
-    <lastmod>2022-07-23T00:00:00+08:00</lastmod>
+    <lastmod>2025-07-01T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
